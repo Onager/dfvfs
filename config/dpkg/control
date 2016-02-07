@@ -1,4 +1,4 @@
-Source: dfvfs
+Source: python-dfvfs
 Section: python
 Priority: extra
 Maintainer: dfVFS development team <log2timeline-dev@googlegroups.com>
